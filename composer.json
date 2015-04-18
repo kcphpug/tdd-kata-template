@@ -1,0 +1,20 @@
+{
+    "name": "kcphpug/tdd-template",
+    "description": "Starting project for writing phpspec or phpunit Kata",
+    "require-dev": {
+	"phpspec/phpspec": "~2.0",
+        "phpunit/phpunit": "~4.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KC's PHP User Group",
+            "email": "contact@kcpug.org"
+        }
+    ],
+    "require": {},
+    "config": {
+	"bin-dir": "bin"
+   },
+    "autoload": { "psr-4": { "": "src" } }
+}
