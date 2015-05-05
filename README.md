@@ -19,13 +19,13 @@
 ## Kata Ideas / Resources
 There are lots of great places to find Kata
 
-http://codekata.com/
-http://codingdojo.org/cgi-bin/index.pl?KataCatalogue
-http://www.wiredtothemoon.com/2012/12/12-tdds-of-christmas/
+* http://codekata.com/
+* http://codingdojo.org/cgi-bin/index.pl?KataCatalogue
+* http://www.wiredtothemoon.com/2012/12/12-tdds-of-christmas/
 
 ## Alternatives to setting up a project
-http://www.codewars.com/
-http://www.codekatas.org/
+* http://www.codewars.com/
+* http://www.codekatas.org/
 
 # Project Details
 
